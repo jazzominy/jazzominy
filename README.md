@@ -1,4 +1,4 @@
-### 👋 Hi there [It's me](https://jazzominy.github.io)
+### 👋 Hi there [it's me](https://jazzominy.github.io)
 
 <!--
 **jazzominy/jazzominy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
